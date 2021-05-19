@@ -250,7 +250,7 @@ a.item:hover {
   }
 }
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
   a.item,
   nav,
   .aplayer .aplayer-info .aplayer-music .aplayer-title,
@@ -295,7 +295,7 @@ a.item:hover {
   .markdown-body .highlight pre,
   .markdown-body table td,
   .markdown-body table th {
-    background: #2b2b2b !important;
+    background: #ffffff !important;
   }
   .token.atrule,
   .token.attr-value,
