@@ -76,7 +76,7 @@ table code:after {
 .token.entity,
 .token.url,
 .language-css .token.string {
-  color: #005cc5;
+  color: #afd5fb;
 }
 .token.entity {
   cursor: help;
