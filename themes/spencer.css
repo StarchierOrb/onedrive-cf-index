@@ -264,7 +264,7 @@ a.item:hover {
   .markdown-body table th,
   .paginate-container span,
   .path a {
-    color: #a2a2a2 !important;
+    color: #000000 !important;
   }
   body,
   div.fade-in-fwd,
@@ -286,11 +286,11 @@ a.item:hover {
     background: #FFFFFF !important;
   }
   .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon:hover path {
-    fill: #a2a2a2 !important;
+    fill: #000000 !important;
   }
   .aplayer .aplayer-info .aplayer-music .aplayer-author,
   .path {
-    color: #626262 !important;
+    color: #66ccff !important;
   }
   .markdown-body code,
   .markdown-body pre,
