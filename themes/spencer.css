@@ -254,7 +254,6 @@ a.item:hover {
   a.item,
   nav,
   .aplayer .aplayer-info .aplayer-music .aplayer-title,
-  .download-button,
   .loading-label,
   .markdown-body,
   .markdown-body code,
@@ -264,7 +263,7 @@ a.item:hover {
   .markdown-body table th,
   .paginate-container span,
   .path a {
-    color: #FFFFFF !important;
+    color: #000000 !important;
   }
   body,
   div.fade-in-fwd,
