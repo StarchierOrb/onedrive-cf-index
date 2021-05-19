@@ -255,11 +255,6 @@ a.item:hover {
   nav,
   .aplayer .aplayer-info .aplayer-music .aplayer-title,
   .loading-label,
-  .markdown-body code,
-  .markdown-body pre,
-  .markdown-body .highlight pre,
-  .markdown-body table td,
-  .markdown-body table th,
   .paginate-container span,
   .path a {
     color: #000000 !important;
